@@ -26,7 +26,7 @@ Para este projeto usamos styled components e seus types. Precisamos instalar ess
 
     npm start
 
-## 03 - Jogo em Execução
+## 03 - Projeto em Execução
 
 ![Jogo da Memória 01](https://user-images.githubusercontent.com/97991094/166400295-83eecea1-10f2-4e9f-be84-3e3a40667047.gif)
 
