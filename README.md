@@ -8,7 +8,7 @@ Link para Testar: [Jogo da Memória](https://snazzy-sopapillas-f86dc1.netlify.ap
 
 ## 01 - Introdução ao projeto
 
-Foi usado o Create-React-App para a instação.
+Foi usado o Create-React-App para o desenvolvimento.
 
     npx create-react-app memory-game --template typescript
 
